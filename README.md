@@ -82,20 +82,23 @@ Of the defined effects, all of them were small, with one exception. The "Minutes
 - *Articulation* – How specific is it? Precise statements are more compelling
 than imprecise ones.
 
-Overall the statements made in the paper are very precise. 
+Overall the statements made in the paper are very precise. See the following examples:
+"The results show a significant improvement in all measures of physical activity participation when compared with control groups, even when interventions were separated into wearable-based and multifaceted."
 
 - *Generality* – How generally does it apply? More general effects are more
 compelling than less general ones. Claims that would interest a more
 general audience are more compelling.
 
-Due to more broad definition of wearables, the effects are more generalisable to the general populations.
+Due to more broad definition of wearables, as well as inclusion of multi-faceted interventions & control groups, the effects are somewhat generalisable to a variety of differing populations.
 
 - *Interestingness* – interesting effects are those that "have the potential,
 through empirical analysis, to change what people believe about an
 important issue". In other words, are the results relevant!
 
-
+Given the low to very low evidence quality, we argue that the effects are interesting enough to warrant more in depth research. On the flip side, given the the quality rating, we do not believe that more that the current findings would spark much interest outside of an already dedicated audience.
 
 - *Credibility* – Credible claims are more compelling than incredible ones. 
 The researcher must show that the claims made are credible.
+
+We believe that the claims made by the researchers in this meta analysis, are credible. We do however have missigivings in how the discussion of the results differes between the Abstract and the full Discussion. While we agree with & endorse the opinions presented in the full discussion, we find, borrowing a internet slang term, the abstract version to be "Clickbait". In our opinion, the discussion in the paint the findings of the meta analysis as significantly more impactfull and meaningfull, then the their full discussion- which takes a significantly more nuanced approach, and, in our ipnion, much realistic framing.
 
