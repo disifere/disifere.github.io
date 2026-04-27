@@ -1,15 +1,17 @@
 ---
 layout: default 
-title: Physical activity, sedentary behavior and total wellness changes among sedentary adults: a 4-week randomized controlled trial
+title: Physical activity, sedentary behavior and total wellness changes among sedentary adults- a 4-week randomized controlled trial
 permalink: /study-na/
 ---
+
+![Gruve Solution](/assets/images/Gruve.png)
 
 ## General description
 
 This study examines how the use of a wearable device to monitor physical activity goals affects change in- the activity levels, sedentary behaviour & total wellness.
 
-![Gruve Solution](/assets/images/Gruve.png)
-### What was done (maybe use pictures)
+
+### What was done 
 The intervention group (27 +-4) was given a wearable activity monitoring device that tracks time spent in 'sedentary, lite, moderate & vigourous-intensity physical activity'.
 Users were then provided direct access to the collected data through visualisation. Users were also given the option of Goal-setting, with the wearable reflecting the daily progress.
 
