@@ -1,6 +1,6 @@
-# A brief summary of:
+# Consumer-Based Wearable Activity Trackers Increase Physical Activity Participation
+![Shows a set of different smart watches](/assets/images/Wearables_watch.jpeg)
 
-## Consumer-Based Wearable Activity Trackers Increase Physical Activity Participation
 
 The development of wearable digital health technologies has advanced, raising new questions for health professionals and researchers about their potential in promoting physical activity. Which types of consumer-based wearable activity trackers currently available have proven effectiveness according to scientific research and under what conditions can their benefits be fully realized? The meta-analysis by Brickwood et al (2019), "Consumer-Based Wearable Activity Trackers Increase Physical Activity Participation: Systematic Review and Meta-Analysis," investigates these questions. The study examines the impact of various interventions using wearable activity trackers on physical activity and sedentary behavior among adults in diverse populations.
 
