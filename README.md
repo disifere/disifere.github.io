@@ -174,5 +174,5 @@ Brickwood, K.-J., Watson, G., O’Brien, J., & Williams, A. D. (2019). Consumer-
 
 ## Individual studies
 
-[Individual Study AL](/study-al/)
-[Individual Study NA](/study-na/)
+[Individual Study AL](/Individual_Study_Al.md)
+[Individual Study NA](/Individual_Study_Na.md)
