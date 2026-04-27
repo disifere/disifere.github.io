@@ -6,17 +6,21 @@ title: Consumer-Based Wearable Activity Trackers Increase Physical Activity Part
 
 The development of wearable digital health technologies has advanced, raising new questions for health professionals and researchers about their potential in promoting physical activity. Which types of consumer-based wearable activity trackers currently available have proven effectiveness according to scientific research and under what conditions can their benefits be fully realized? The meta-analysis by Brickwood et al (2019), "Consumer-Based Wearable Activity Trackers Increase Physical Activity Participation: Systematic Review and Meta-Analysis," investigates these questions. The study examines the impact of various interventions using wearable activity trackers on physical activity and sedentary behaviour among adults in diverse populations.
 
-Focus of the study:
-Effectiveness of consumer-based wearable activity trackers on physical activity and sedentary behavior
+> **Meta-analysis in a nutshell**
+> 
+> **Focus of the study**:
+> Effectiveness of consumer-based wearable activity trackers on physical activity and sedentary behavior
+>
+> **Target group**:
+> Adults (18+), broad age range (approx. 18–79 years), including healthy individuals and those with chronic conditions> - Another item
+>
+> **Average effect size**:
+> Small but significant effects on physical activity (Steps: SMD ≈ 0.23; Moderate and Vigorous Physical Activity (MVPA): SMD ≈ 0.28; Energy Expenditure: SMD ≈ 0.32); no significant effect on Sedentary Behavior
+>
+> **Additional remarks/results**:
+> Wearables are most effective when combined with other interventions; overall low to very low quality of evidence.
 
-Target group:
-Adults (18+), broad age range (approx. 18–79 years), including healthy individuals and those with chronic conditions
-
-Average effect size:
-Small but significant effects on physical activity (Steps: SMD ≈ 0.23; Moderate and Vigorous Physical Activity (MVPA): SMD ≈ 0.28; Energy Expenditure: SMD ≈ 0.32); no significant effect on Sedentary Behavior
-
-Additional remarks/results:
-Wearables are most effective when combined with other interventions; overall low to very low quality of evidence.
+***
 
 ### ***Introduction***
 
@@ -99,6 +103,8 @@ The meta-analysis conducted additional subgroup analyses, categorizing studies i
 
 Overall, the findings suggest that wearable activity trackers are more effective for increasing physical activity when they are combined with other traditional behavioural interventions, as seen in multifaceted approaches. However, neither intervention type showed a significant reduction in sedentary behaviour.
 
+***
+
 ### ***Quality of the meta-analysis?***
 
 ##### **MAGIC CRITERIA**
@@ -123,15 +129,15 @@ Overall the statements made in the paper are very precise. The authors achieve t
 - Risk of bias summary (utilising a table based green-yellow-red risk identification system)
 - Simple representation of visual representation of results using forest plots
 - Appendices 
-1. Full search strategy.
-2. Exclusion criteria.
-3. Detailed summary of study design and baseline characteristics for all included studies.
-4. GradePRO summary of findings table.
+  1. Full search strategy.
+  2. Exclusion criteria.
+  3. Detailed summary of study design and baseline characteristics for all included studies.
+  4. GradePRO summary of findings table.
 
 Additionally, an example statement:
 "The results show a significant improvement in all measures of physical activity participation when compared with control groups, even when interventions were separated into wearable-based and multifaceted."
 
-- *Generality* – How generally does it apply? More general effects are more
+***Generality*** – How generally does it apply? More general effects are more
 compelling than less general ones. Claims that would interest a more
 general audience are more compelling.
 
@@ -144,7 +150,7 @@ Due to more broad definition of wearables, as well as inclusion of multi-faceted
 
 However, this very same heterogeneity of included study designs complicates comparison and synthesis, reducing the overall quality of evidence — because differing interventions, populations, outcome measures, and follow-up periods introduce variability that obscures true effects.
 
-- *Interestingness* – interesting effects are those that "have the potential,
+***Interestingness*** – interesting effects are those that "have the potential,
 through empirical analysis, to change what people believe about an
 important issue". In other words, are the results relevant!
 
@@ -152,7 +158,7 @@ A case for relevance- the study addresses a major global health issue of increas
 
 A case against- the reported effect sizes, while significant are small. Additionally, the authors attribute low confidence to these findings, particularly due to the low to very low quality if evidence used to synthesise their results. Additionally, there is a lack of long-term research on the effectiveness of wearables on improving levels of physical activity.
 
-- *Credibility* – Credible claims are more compelling than incredible ones. 
+***Credibility*** – Credible claims are more compelling than incredible ones. 
 The researcher must show that the claims made are credible.
 
 A case for credibility- The Meta-analysis followed a systematic search methodology (PRISMA) searched multiple different databases, provided an included study risk & 'GRADE' assessment  and included primarily 'objective' outcome studies.
