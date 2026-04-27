@@ -1,3 +1,9 @@
+---
+layout: default 
+title: Individual Study AL
+permalink: /study-al/
+---
+
 # Summary of- "Effect of Wearable Technology Combined With a Lifestyle Intervention on Long-term Weight Loss"
 ![Shows a iphone 4 and a smarth watch](assets/images/phone_watch.jpeg)
 ## Introduction

@@ -167,3 +167,12 @@ Wearables can be a useful component of interventions aimed at increasing physica
 
 For individuals and employers:
 Wearable trackers are accessible tools that can help monitor and motivate physical activity. For sustained benefits, however, ongoing support and additional behavior change strategies are recommended. Individuals looking to improve their activity levels may benefit most when combining wearables with structured programs / traditional interventions.
+
+## Reference
+
+Brickwood, K.-J., Watson, G., O’Brien, J., & Williams, A. D. (2019). Consumer-Based Wearable Activity Trackers Increase Physical Activity Participation: Systematic Review and Meta-Analysis. JMIR MHealth and UHealth, 7(4), e11819. https://doi.org/10.2196/11819
+
+## Individual studies
+
+[Individual Study AL](/Individual%20Study%20Al.md)
+[Individual Study NA](/Individual%20Study%20Na.md)

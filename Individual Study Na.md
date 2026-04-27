@@ -1,4 +1,10 @@
-# Physical activity & sedentary behaviour a wellness question
+---
+layout: default 
+title:  Individual Study Na.
+permalink: /study-na/
+---
+
+# Physical activity, sedentary behavior and total wellness changes among sedentary adults: a 4-week randomized controlled trial
 
 ## General description
 
@@ -26,3 +32,4 @@ This study is a good example as it clearly highlights effectiveness that a weara
 Desipte it's shortcomings of using a subjective measure, the self-report measures used in the study are validated measures. At the risk of false equivalency- Depression reports too are often self-reports.
 
 ## Refernce
+Barwais FA, Cuddihy TF, Tomson LM. Physical activity, sedentary behavior and total wellness changes among sedentary adults: a 4-week randomized controlled trial. Health Qual Life Outcomes 2013;11:183 [FREE Full text] [doi:10.1186/1477-7525-11-183] [Medline: 24168638]
