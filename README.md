@@ -35,6 +35,9 @@ The consumer group, while not the direct target, is the target audience of those
 
 
 ### ***What is this study about?***
+
+![Picture shows a set of different smartwatches & an arrow pointing from them to a group of runners, with Questionmarks floating arround](assets/images/Wearables_run.png)
+
 In the words of the authors, this study was about undestanding and measuring "... the effects of interventions utilizing consumer-based wearable activity trackers on physical activity participation and sedentary behavior when compared with interventions that do not utilize activity tracker feedback."
 
 Or more simply put, 'Do wearable activity trackers (ie. Fitbit, Garmin, or more loosely- your Apple Watch) actually increase how active people are'.
