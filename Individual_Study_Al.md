@@ -1,18 +1,17 @@
 ---
 layout: default 
-title: Individual Study AL
+title: "Effect of Wearable Technology Combined With a Lifestyle Intervention on Long-term Weight Loss"
 permalink: /study-al/
 ---
 
-# Summary of- "Effect of Wearable Technology Combined With a Lifestyle Intervention on Long-term Weight Loss"
 ![Shows a iphone 4 and a smarth watch](assets/images/phone_watch.jpeg)
 ## Introduction
 
-The study “Effect of Wearable Technology Combined With a Lifestyle Intervention on Long-term Weight Loss” by John M. Jakicic et al. (2016) examined whether wearable devices improve long-term weight loss in young adults. The aim was to test if adding wearable technology to a standard behavioral program leads to greater weight loss over 24 months.
+The study “Effect of Wearable Technology Combined With a Lifestyle Intervention on Long-term Weight Loss” by John M. Jakicic et al. (2016) examined whether wearable devices improve long-term weight loss in young adults. The aim was to test if adding wearable technology to a standard behavioural program leads to greater weight loss over 24 months.
 
 ## What was done
 
-The study included 470 participants aged 18–35 with a BMI between 25 and 40. All participants completed a 6-month standard program with diet, exercise and group sessions. After that, they were randomly divided into two groups. The experimental group used a wearable device and web interface to track activity and diet, along with counseling and text prompts. The standard group received the same support but used a website for self-monitoring.
+The study included 470 participants aged 18–35 with a BMI between 25 and 40. All participants completed a 6-month standard program with diet, exercise and group sessions. After that, they were randomly divided into two groups. The experimental group used a wearable device and web interface to track activity and diet, along with counselling and text prompts. The standard group received the same support but used a website for self-monitoring.
 
 ## Results 
 
@@ -20,7 +19,7 @@ At 24 months, contrary to the hypothesis, the standard group lost significantly 
 
 ## Conclusion
 
-The results suggest that wearable devices do not improve weight loss outcomes. Traditional behavioral approaches were more effective in this study.
+The results suggest that wearable devices do not improve weight loss outcomes. Traditional behavioural approaches were more effective in this study.
 
 ## Why is it special to you? 
 
@@ -32,3 +31,7 @@ This study is a good example because it examines long-term effects over 24 month
 
 ## Reference
 Jakicic JM, Davis KK, Rogers RJ, King WC, Marcus MD, Helsel D, et al. Effect of wearable technology combined with a lifestyle intervention on long-term weight loss: the IDEA randomized clinical trial. J Am Med Assoc 2016 Sep 20;316(11):1161-1171. [doi: 10.1001/jama.2016.12858] [Medline: 27654602]
+
+[Back](/README.md)
+
+[Individual Study NA](/Individual_Study_Na.md)
