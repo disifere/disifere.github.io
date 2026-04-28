@@ -37,6 +37,6 @@ Despite it's shortcomings of using a subjective measure, the self-report measure
 ## Reference
 Barwais FA, Cuddihy TF, Tomson LM. Physical activity, sedentary behavior and total wellness changes among sedentary adults: a 4-week randomized controlled trial. Health Qual Life Outcomes 2013;11:183 [FREE Full text] [doi:10.1186/1477-7525-11-183] [Medline: 24168638]
 
-[Back](/README.md)
+[Back](/index.md)
 
 [Individual Study AL](/Individual_Study_Al.md)

@@ -11,7 +11,7 @@ baseurl: ""
 # Navigation
 nav:
   - label: Home
-    url: /README.md
+    url: /index.md/
   - label: Study - Al
     url: /study-al/
   - label: Study - Na
