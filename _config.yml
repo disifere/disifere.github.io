@@ -8,6 +8,15 @@ plugins:
 url: "https://disifere.github.io"
 baseurl: ""
 
+# Navigation
+nav:
+  - label: Home
+    url: /
+  - label: Study - Al
+    url: /study-al/
+  - label: Study - Na
+    url: /study-na/
+
 # Collections and defaults
 defaults:
   - scope:
@@ -18,4 +27,3 @@ defaults:
 
 # Markdown settings
 markdown: kramdown
-permalink: /:title/

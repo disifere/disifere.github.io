@@ -4,7 +4,7 @@ title: "Effect of Wearable Technology Combined With a Lifestyle Intervention on 
 permalink: /study-al/
 ---
 
-![Shows a iphone 4 and a smarth watch](assets/images/phone_watch.jpeg)
+![Shows a iphone 4 and a smarth watch](/assets/images/phone_watch.jpeg)
 ## Introduction
 
 The study “Effect of Wearable Technology Combined With a Lifestyle Intervention on Long-term Weight Loss” by John M. Jakicic et al. (2016) examined whether wearable devices improve long-term weight loss in young adults. The aim was to test if adding wearable technology to a standard behavioural program leads to greater weight loss over 24 months.
