@@ -1,6 +1,7 @@
 ---
 layout: default 
 title: Physical activity, sedentary behavior and total wellness changes among sedentary adults- a 4-week randomized controlled trial
+description: written by Benkö Nathaniel
 permalink: /study-na/
 ---
 
@@ -36,6 +37,10 @@ Despite it's shortcomings of using a subjective measure, the self-report measure
 
 ## Reference
 Barwais FA, Cuddihy TF, Tomson LM. Physical activity, sedentary behavior and total wellness changes among sedentary adults: a 4-week randomized controlled trial. Health Qual Life Outcomes 2013;11:183 [FREE Full text] [doi:10.1186/1477-7525-11-183] [Medline: 24168638]
+
+Image 1- 
+
+Copyright holder unknown. (2010). Gruve device being held. In dietsinreview. https://dietsinreview.com/diet_column/03/the-gruve-is-a-valuable-new-weight-loss-gadget/
 
 [Back](/index.md)
 

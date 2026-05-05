@@ -1,6 +1,7 @@
 ---
 layout: default 
 title: "Effect of Wearable Technology Combined With a Lifestyle Intervention on Long-term Weight Loss"
+description: written by Reinprecht  Alyssa 
 permalink: /study-al/
 ---
 
@@ -31,6 +32,10 @@ This study is a good example because it examines long-term effects over 24 month
 
 ## Reference
 Jakicic JM, Davis KK, Rogers RJ, King WC, Marcus MD, Helsel D, et al. Effect of wearable technology combined with a lifestyle intervention on long-term weight loss: the IDEA randomized clinical trial. J Am Med Assoc 2016 Sep 20;316(11):1161-1171. [doi: 10.1001/jama.2016.12858] [Medline: 27654602]
+
+Image 1-
+
+Copyright holder unknown. (2015). bodymedia-link-armband. In Webpage. https://healthiday.com/bodymedia-fit-band-reviews/
 
 [Back](/index.md)
 

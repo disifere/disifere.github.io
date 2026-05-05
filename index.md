@@ -1,10 +1,11 @@
 ---
-title: Consumer-Based Wearable Activity Trackers Increase Physical Activity Participation
+title: Summary of "Consumer-Based Wearable Activity Trackers Increase Physical Activity Participation: Systematic Review and Meta-Analysis"
 layout: default
-description: Welcome to my site!
+description: Page by Benkö Nathaniel, Reinprecht Alyssa
 ---
 
-![Shows a set of different smart watches](/assets/images/Wearables_watch.jpeg)
+![Shows a set of different smart watches](/assets/images/Smartwatch-health2.png)
+See references
 
 The development of wearable digital health technologies has advanced, raising new questions for health professionals and researchers about their potential in promoting physical activity. Which types of consumer-based wearable activity trackers currently available have proven effectiveness according to scientific research and under what conditions can their benefits be fully realized? The meta-analysis by Brickwood et al (2019), "Consumer-Based Wearable Activity Trackers Increase Physical Activity Participation: Systematic Review and Meta-Analysis," investigates these questions. The study examines the impact of various interventions using wearable activity trackers on physical activity and sedentary behaviour among adults in diverse populations.
 
@@ -39,7 +40,9 @@ Wearable activity trackers, as defined in the meta-analysis, are electronic devi
 ### ***Target group***
 The traget groups can be separated into primary, secondary & consumer. 
 
-Primary are those who have professional interest in and can utilise this information. Examples of this would be to improve processes, designs & generate new & improved services/products:
+Primary are those who have a researhc interest and/or a business interest in and can utilise this information. 
+
+Examples of the latter would be to improve processes, designs & generate new & improved services/products:
 - Wearable producers
 - Fitness apps (via data integration)
 
@@ -188,7 +191,29 @@ Wearable trackers are accessible tools that can help monitor and motivate physic
 
 Brickwood, K.-J., Watson, G., O’Brien, J., & Williams, A. D. (2019). Consumer-Based Wearable Activity Trackers Increase Physical Activity Participation: Systematic Review and Meta-Analysis. JMIR MHealth and UHealth, 7(4), e11819. https://doi.org/10.2196/11819
 
+Eschenzweig. (2020). Smartwatch-health2. In Wikimedia. https://commons.wikimedia.org/wiki/File:Smartwatch-health2.png
+
+Second Picture- Design created using free use images in Canva on 26, April, 2026, by Nathaniel Benkö
+
+## AI Usage 
+
+AI was used to support webpage creation:
+ 
+- Webpage backend layout
+- Bug fixing (ie. Images not showing properly, page theme not rendering)
+- Feature addtion (ie. Home button, individual study buttons)
+- Table formating
+
+AI was **NOT** used for:
+
+- Writing the page(s) contents
+- Image generation
+
 ## Individual studies
 
 [Individual Study AL](/Individual_Study_Al.md)
 [Individual Study NA](/Individual_Study_Na.md)
+
+
+
+
