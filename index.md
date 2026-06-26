@@ -5,7 +5,7 @@ description: Page by Benkö Nathaniel, Reinprecht Alyssa
 ---
 
 ![Shows a set of different smart watches](/assets/images/Smartwatch-health2.png)
-See references
+***See references***
 
 The development of wearable digital health technologies has advanced, raising new questions for health professionals and researchers about their potential in promoting physical activity. Which types of consumer-based wearable activity trackers currently available have proven effectiveness according to scientific research and under what conditions can their benefits be fully realized? The meta-analysis by Brickwood et al (2019), "Consumer-Based Wearable Activity Trackers Increase Physical Activity Participation: Systematic Review and Meta-Analysis," investigates these questions. The study examines the impact of various interventions using wearable activity trackers on physical activity and sedentary behaviour among adults in diverse populations.
 
@@ -75,7 +75,7 @@ For steps, MVPA, and energy expenditure, the analysis found statistically signif
 
 Additionally, the quality of evidence for all four outcomes was rated as low to very low. The main reasons for this assessment were a consistently high risk of bias across all included studies, primarily because participant blinding was not feasible in these interventions. Other factors contributing to the reduced certainty of the evidence were indirectness, stemming from the heterogeneous range of interventions, comparators, populations and settings, as well as inconsistency due to observed statistical heterogeneity. Further details can be found in Table 1 of the original report.
 
-#### **Subgroup Analysis Result**s
+#### **Subgroup Analysis Results**
 
 The meta-analysis conducted additional subgroup analyses, categorizing studies into those using wearable-based interventions and those employing multifaceted interventions:
 
@@ -203,11 +203,6 @@ AI was used to support webpage creation:
 - Bug fixing (ie. Images not showing properly, page theme not rendering)
 - Feature addtion (ie. Home button, individual study buttons)
 - Table formating
-
-AI was **NOT** used for:
-
-- Writing the page(s) contents
-- Image generation
 
 ## Individual studies
 
